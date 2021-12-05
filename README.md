@@ -1,5 +1,5 @@
 # apprenticeship-2021_10_12-task-resistor_network
-2021-10-07 CEST
+2021-10-12 CEST
 
 This was the third problem that we were tasked to solve, though this time by a substitute teacher, as our main teacher was written sick.
 
