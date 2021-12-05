@@ -1,4 +1,8 @@
 # apprenticeship-2021_10_12-task-resistor_network
-The second problem we were tasked to solve, though this time by a substitute teacher, as our main teacher was written sick, lol
+2021-10-07 CEST
 
-It was around this time when I learnt how to utilise header files. I learnt this in my free time MUCH sooner than the rest of my class, and, even though my usage of it is still rather limited as of 2021, I am quite glad to already be able to utilise header files.
+This was the third problem that we were tasked to solve, though this time by a substitute teacher, as our main teacher was written sick.
+
+We did not learn about loops in class until quite a bit later. Likewise, we also have not learnt about using header files at this time. But since our main teacher wasn't there to complain, I didn't have much reason to care.
+
+This project has been uploaded for archiving purposes.
